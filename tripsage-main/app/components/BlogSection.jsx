@@ -5,7 +5,6 @@ import Link from 'next/link';
 import Image from 'next/image';
 import blogData from '../data/blogs.json';
 
-// Fixed color patterns for each card
 const cardPatterns = [
   'from-blue-500 to-indigo-600',
   'from-emerald-400 to-teal-500',
